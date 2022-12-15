@@ -1,7 +1,7 @@
 <h1>Calculator app </h>
 
-<p>Calculator provides simple and advanced mathematical functions in a beautifully designed app.
-Perform basic calculations such as addition, subtraction, multiplication and division.<p>
+<h6>Calculator provides simple and advanced mathematical functions in a beautifully designed app.
+Perform basic calculations such as addition, subtraction, multiplication and division.</h6>
 
 <h5>This app created using JavaScript, HTML & CSS.</h5>
 
